@@ -20,7 +20,7 @@
 
 ### Drone Missions
 
-- **takeoff_and_land_airsim.py*** - <https://drive.google.com/file/d/1HUPWPgxWtHDjsIT7I58h84_-ZVJoBQ6m/view?usp=drive_link>
+- **takeoff_and_land_airsim.py** - <https://drive.google.com/file/d/1HUPWPgxWtHDjsIT7I58h84_-ZVJoBQ6m/view?usp=drive_link>
 - **forward_and_back** - Offboard, moves drone forward and back
 - **lawnmower_survey.py** - Offboard, flies lawnmower survey pattern
 
@@ -34,13 +34,13 @@ This script runs off AirSim/Colosseum built on Unreal 5.4.4.  PX4 and MavLink co
 
 ## Resources
 
-<https://www.ijcai.org/proceedings/2018/0847.pdf>
-<https://public.roboflow.com/object-detection/thermal-dogs-and-people>
-<https://www.hammermissions.com/post/calculating-ground-sampling-distance-gsd-in-drone-flights>
-<https://en.wikipedia.org/wiki/Ground_sample_distance>
-<https://www.skyebrowse.com/news/posts/gsd-calculator?cs=0&hl=en-US&biw=2560&bih=1305>
-<https://microsoft.github.io/AirSim/InfraredCamera/>
-<https://github.com/CodexLabsLLC/Colosseum>
-<https://mavsdk.mavlink.io/main/en/cpp/guide/offboard.html>
-<https://docs.opencv.org/4.x/>
-<https://www.fab.com/listings/fd558d8c-bd7e-461f-8449-a7cc9c277078> *- Used for my scene in Unreal*
+- <https://www.ijcai.org/proceedings/2018/0847.pdf>
+- <https://public.roboflow.com/object-detection/thermal-dogs-and-people>
+- <https://www.hammermissions.com/post/calculating-ground-sampling-distance-gsd-in-drone-flights>
+- <https://en.wikipedia.org/wiki/Ground_sample_distance>
+- <https://www.skyebrowse.com/news/posts/gsd-calculator?cs=0&hl=en-US&biw=2560&bih=1305>
+- <https://microsoft.github.io/AirSim/InfraredCamera/>
+- <https://github.com/CodexLabsLLC/Colosseum>
+- <https://mavsdk.mavlink.io/main/en/cpp/guide/offboard.html>
+- <https://docs.opencv.org/4.x/>
+- <https://www.fab.com/listings/fd558d8c-bd7e-461f-8449-a7cc9c277078> *- Used for my scene in Unreal*
