@@ -28,7 +28,7 @@
 
 This script runs off AirSim/Colosseum built on Unreal 5.4.4.  PX4 and MavLink connect drone scripts to AirSim.  Create Python virtual environment and install *requirement.txt*.  Drone scripts need to be uploaded to the WSL enviroment with MavSDK and PX4.  Once a scene is a setup in Unreal, running *list_objects.py* gives the names of all the objects in the scene that you may want to change IR values for.  Edit *create_ir_segmentation_map.py* with these objects and desired values.  Finally, run the simulation in Unreal, run *create_ir_segmentation_map.py*, then run *live_ir_feed_yolo.py* to bring up the camera feed with YOLO running on it.  Then the drone mission can be run from WSL to launch the mission.
 
-***Colosseum Setup Links***
+***Colosseum Setup Links***  
 <https://codexlabsllc.github.io/Colosseum/build_windows/>
 <https://microsoft.github.io/AirSim/px4_setup/>
 
